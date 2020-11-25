@@ -1,0 +1,14 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Win Sports FHD (CO)" tvg-name="Colombia - Win Sports SD" tvg-logo="http://144.217.91.146/Logos/Colombia/win-sports-co.png" group-title="COLOMBIA",Colombia - Win Sports SD
+http://tv-cool.com:25461/Lista6/e05ab4e24c/40366
+#EXTINF:-1 tvg-id="Win Sports FHD (CO)" tvg-name="Colombia - Win Sports HD" tvg-logo="http://144.217.91.146/Logos/Colombia/win-sports-co.png" group-title="COLOMBIA",Colombia - Win Sports HD
+http://tv-cool.com:25461/Lista6/e05ab4e24c/30266
+#EXTINF:-1 tvg-id="Win Sports FHD (CO)" tvg-name="Colombia - Win Sports FHD" tvg-logo="http://144.217.91.146/Logos/Colombia/win-sports-co.png" group-title="COLOMBIA",Colombia - Win Sports FHD
+http://tv-cool.com:25461/Lista6/e05ab4e24c/30179
+#EXTINF:-1 tvg-id="Win Sports +" tvg-name="Colombia - Win Sports + SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-win-sports-plus-2457.png" group-title="COLOMBIA",Colombia - Win Sports + SD
+http://tv-cool.com:25461/Lista6/e05ab4e24c/39958
+#EXTINF:-1 tvg-id="Win Sports +" tvg-name="Colombia - Win Sports + HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-win-sports-plus-2457.png" group-title="COLOMBIA",Colombia - Win Sports + HD
+http://tv-cool.com:25461/Lista6/e05ab4e24c/39957
+#EXTINF:-1 tvg-id="Win Sports +" tvg-name="Colombia - Win Sports + FHD" tvg-logo="https://sport-tv-guide.live/images/tv-station-win-sports-plus-2457.png" group-title="COLOMBIA",Colombia - Win Sports + FHD
+http://tv-cool.com:25461/Lista6/e05ab4e24c/39956
